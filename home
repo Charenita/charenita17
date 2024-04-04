@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Charenita Portfolio</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./style.css" />
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body style="text-align: center">
+    <nav>
+      <a href="./221110071-P1.html">Home</a>
+      <a href="./About.html">About</a>
+      <a href="./Contact.html">Contact</a>
+    </nav>
+    <br />
+    <img width="200" src="./logo1.png" />
+    <h1>Charenita Reri</h1>
+    <p>
+      Charenita Reri adalah seorang softwere developer, pengusaha cantik dan
+      investor yang berasal Nusa Tenggara Timur . Tertarik Dengan Teknologi
+      ,keuangan dan kecantikan
+    </p>
+    <div id="pendidikan" style="text-align: center; display: inline-block">
+      <h2>Pendidikan</h2>
+      <ol>
+        <li>
+          Serjana Komputer |2022 - 2026| <br />
+          <strong> Universitas Mercubuana Yogyakarta</strong><br />
+          informatika
+        </li>
+        <li>
+          Khursus Kecantikan |2020| <br />
+          <Storng> Sertifikat MUA</Storng><br />
+        </li>
+      </ol>
+    </div>
+    <br />
+    <div id="pendidikan" style="text-align: center; display: inline-block">
+      <h2 style="color: crimson">keahlian</h2>
+      <ul>
+        <li>kecantikan</li>
+        <li>Analisis Data</li>
+      </ul>
+    </div>
+    <h2>Portofolio</h2>
+    <img
+      height="200"
+      width="300"
+      src="c:\Users\USER\Downloads\Pemandangan_Gunung_Bromo.jpg"
+    />
+    <img
+      height="200"
+      width="300"
+      src="c:\Users\USER\Downloads\Logo_TN_Gunung_Bromo_Tengger_Semeru.png"
+    />
+    <img
+      height="200"
+      width="300"
+      src="c:\Users\USER\Downloads\6099375e04acb.jpg"
+    />
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/TEXBgNVt19Q?si=sH_yY6iXw5k0Cs_8"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+    ></iframe>
+  </body>
+</html>
